@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(26, 78, 80);
+}
+
+.div-header{
+    width: 70%;
+    background-color: black;
+    margin: 15px auto 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    margin: 15px 15px;
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.nav-header{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.icon-header{
+    margin: 0 32px;
+}
+.icon-header i{
+    margin: 0 10px;
+    color: white;
+    font-size: 26px;
+}
+
+.div-theme i{
+    color: rgb(248, 216, 71);
+    font-size: 25px;
+}

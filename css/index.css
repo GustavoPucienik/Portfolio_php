@@ -1,0 +1,31 @@
+.main-content{
+    margin: 0px auto;
+    width: 70%;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.apre{
+    padding: 0 2%;
+    background-color: rgb(44, 44, 44);
+    width: 55%;
+}
+
+.skills{
+    padding: 0 2%;
+    background-color: rgb(44, 44, 44);
+    width: 35%;
+}
+
+.skills .habi{
+    margin: 5px auto;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.skills .habi img{
+    margin: 10px auto;
+    width: 55%;
+    border-radius: 5px;
+}
