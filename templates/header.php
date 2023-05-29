@@ -17,8 +17,8 @@
     <nav class="nav-header">
         <div class="icon-header">
             <a href="http://github.com" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
-            <a href="http://github.com" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-            <a href="http://github.com" target="_blank"><i class="fa-brands fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/gustavo-gomes-pucienik-05a3111b3/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://github.com/GustavoPucienik" target="_blank"><i class="fa-brands fa-github"></i></a>
         </div>
         <div  class="div-theme">
         <i class="fa-solid fa-sun"></i>

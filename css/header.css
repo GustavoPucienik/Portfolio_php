@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(26, 78, 80);
+    background-color: rgb(51, 69, 70);
 }
 
 .div-header{
@@ -13,13 +13,13 @@ body{
 
 .logo{
     margin: 15px 15px;
-    color: rgb(255, 255, 255);
+    color: rgb(253, 133, 21);
     font-size: 32px;
     font-weight: 800;
 }
 
 .nav-header{
-    width: 50%;
+    width: 45%;
     display: flex;
     justify-content: space-around;
     
@@ -32,6 +32,14 @@ body{
     margin: 0 10px;
     color: white;
     font-size: 26px;
+}
+
+.icon-header .fa-whatsapp{
+    color: rgb(71, 255, 55);
+}
+
+.icon-header .fa-linkedin{
+    color: rgb(9, 92, 185);
 }
 
 .div-theme i{
