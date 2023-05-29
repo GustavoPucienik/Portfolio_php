@@ -1,9 +1,11 @@
 .main-content{
     margin: 0px auto;
     width: 70%;
-    color: white;
     display: flex;
     justify-content: space-between;
+}
+.main-content h1{
+    color: rgb(253, 133, 21);
 }
 
 .apre{
@@ -18,14 +20,51 @@
     width: 35%;
 }
 
+.skills h1{
+    color: rgb(253, 133, 21);
+}
+
 .skills .habi{
-    margin: 5px auto;
-    width: 90%;
+    text-align: center;
     display: grid;
     grid-template-columns: 50% 50%;
 }
-.skills .habi img{
-    margin: 10px auto;
-    width: 55%;
-    border-radius: 5px;
+
+.skills .habi i{
+    margin-bottom: 25px;
+    font-size: 55px;
+    transition: .5s;
+}
+.skills .habi i:hover{
+    color: gray;
+}
+.skills .habi .fa-git-alt{
+    color: #d22d2d;
+}
+.skills .habi .fa-github{
+    color: #ffffff;
+}
+
+.skills .habi .fa-html5{
+    color: #f5742a;
+}
+
+.skills .habi .fa-css3-alt{
+    color: #0050db;
+}
+
+.skills .habi .fa-square-js{
+    color: #ffea00;
+}
+
+.skills .habi .fa-php{
+    color: #67439d;
+}
+
+.skills .habi .fa-react{
+    color: #1cbbe3;
+}
+
+.skills .habi .fa-database{
+    color: rgb(253, 133, 21);
 }

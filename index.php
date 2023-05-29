@@ -17,14 +17,14 @@
     <div class="skills">
     <h1>Minhas habilidades:</h1>
     <div class="habi">
-        <img src="img/js.png" alt="Html">
-        <img src="img/js.png" alt="Css">
-        <img src="img/js.png" alt="Javascript">
-        <img src="img/js.png" alt="PHP">
-        <img src="img/js.png" alt="SQL">
-        <img src="img/js.png" alt="Git">
-        <img src="img/js.png" alt="React">
-        <img src="img/js.png" alt="Laravel">
+        <i class="fa-brands fa-git-alt"></i>
+        <i class="fa-brands fa-github"></i>
+        <i class="fa-brands fa-html5"></i>
+        <i class="fa-brands fa-css3-alt"></i>
+        <i class="fa-brands fa-square-js"></i>
+        <i class="fa-brands fa-php"></i>
+        <i class="fa-brands fa-react"></i>
+        <i class="fa-solid fa-database"></i>
     </div>
     </div>
 
