@@ -7,10 +7,10 @@
 <div class="main-content">
 
     <div class="apre">
-        <h1>Meu nome é Gustavo</h1>
+        <h1 class="colortext">Bio</h1>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio atque itaque voluptatem labore minima optio et iusto laboriosam facere quos. Dolorum consequatur eius mollitia minus velit debitis nam excepturi minima?</p>
 
-        <div class="proj">
+        <div class="proj colortext">
             <h1>Projetos</h1>
             <div class="container">
   <button class="arrow-left control" aria-label="Previous image">◀</button>
@@ -29,7 +29,7 @@
     </div>
 
     <div class="skills">
-    <h1>Minhas habilidades:</h1>
+    <h1 class="colortext">Minhas habilidades:</h1>
     <div class="habi">
         <i class="fa-brands fa-git-alt"></i>
         <i class="fa-brands fa-github"></i>

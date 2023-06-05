@@ -1,10 +1,16 @@
 body{
-    background-color: rgb(51, 69, 70);
+    background-color: rgb(116, 79, 198);
+}
+.colortext{
+    color: rgb(242, 187, 35);
+}
+.colortext1{
+    color: rgb(242, 187, 35);
 }
 
 .div-header{
     width: 70%;
-    background-color: black;
+    background-color: rgb(34, 24, 78);
     margin: 15px auto 20px;
     display: flex;
     align-items: center;
@@ -13,7 +19,6 @@ body{
 
 .logo{
     margin: 15px 15px;
-    color: rgb(253, 133, 21);
     font-size: 32px;
     font-weight: 800;
 }

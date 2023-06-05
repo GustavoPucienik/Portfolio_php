@@ -13,7 +13,7 @@
 </head>
 <body>
    <div class="div-header">
-        <div class="logo">Portfólio</div>
+        <div class="logo colortext1">Portfólio</div>
     <nav class="nav-header">
         <div class="icon-header">
             <a href="http://github.com" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>

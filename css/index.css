@@ -4,14 +4,14 @@
     display: flex;
     justify-content: space-between;
 }
-.main-content h1{
-    color: rgb(253, 133, 21);
-}
+
 
 .apre{
     padding: 0 2%;
-    background-color: rgb(44, 44, 44);
+    background-color: rgb(34, 24, 78);
     width: 55%;
+    color: rgb(178, 163, 181);
+    font-weight: 800;
 }
 
 
@@ -42,6 +42,7 @@
     opacity: 0.1;
     cursor: pointer;
     border: none;
+    z-index: 1;
   }
   
   .arrow-left:hover,
@@ -97,13 +98,10 @@
 
 .skills{
     padding: 0 2%;
-    background-color: rgb(44, 44, 44);
+    background-color: rgb(34, 24, 78);
     width: 35%;
 }
 
-.skills h1{
-    color: rgb(253, 133, 21);
-}
 
 .skills .habi{
     text-align: center;
@@ -121,7 +119,7 @@
     color: gray;
 }
 .skills .habi .fa-git-alt{
-    color: #d22d2d;
+    color: #d60e0e;
 }
 .skills .habi .fa-github{
     color: #ffffff;
