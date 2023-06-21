@@ -8,7 +8,7 @@
 
     <div class="apre">
         <h1 class="colortext">Bio</h1>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio atque itaque voluptatem labore minima optio et iusto laboriosam facere quos. Dolorum consequatur eius mollitia minus velit debitis nam excepturi minima?</p>
+        <p>Meu nome é Gustavo, tenho 21 anos, sou desenvolvedor e estudante de engenharia de software, possuo projetos no github e busco uma oportunidade profissional como desenvolver Jr</p>
 
         <div class="proj colortext">
             <h1>Projetos</h1>
@@ -17,7 +17,7 @@
   <button class="arrow-right control" aria-label="Next Image">▶</button>
         <div class="gallery-wrapper">
             <div class="gallery">
-            <img src="https://source.unsplash.com/random/250x250/?beach" alt="Beach Image" class="item current-item">
+            <img target="_blank" src="https://source.unsplash.com/random/250x250/?animal" alt="Animal Image" class="item current-item" alt="Projeto filmes" class="item current-item">
             <img src="https://source.unsplash.com/random/250x250/?animal" alt="Animal Image" class="item current-item">
             <img src="https://source.unsplash.com/random/250x250/?street" alt="Street Image" class="item current-item">
             <img src="https://source.unsplash.com/random/250x250/?zoo" alt="Zoo Image" class="item current-item">
